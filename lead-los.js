@@ -41,3 +41,7 @@ client.on('message', async (message) => {
 
 // Función para retrasar la ejecución en milisegundos
 const delay = ms => new Promise(res => setTimeout(res, ms)); // Esto permite crear una pausa entre procesos
+
+
+
+// npm install
