@@ -1,0 +1,69 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573506396283@s.whatsapp.net',
+    fromMe: false,
+    id: '3A64795CE07FFBE4692F',
+    participant: undefined
+  },
+  messageTimestamp: 1741407506,
+  pushName: 'Jose Luis Baena',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'Hola',
+  from: '573506396283'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_fa08aa44-cb53-486e-851a-253544e88320',
+  keyword: 'key_0e934a68-2fab-4f82-96fd-3bfd5719d5c4',
+  answer: '🙌 Bienvenido a *Wiquiweb*, tu solución digital para páginas web y servicios online.',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '0667d8038e29171116cd7e5d68381858'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_9f99b499-7de9-4ca0-b01d-690c00e8c858',
+  keyword: 'ans_fa08aa44-cb53-486e-851a-253544e88320',
+  answer: 'Te comparto los siguientes links de interés sobre nuestros servicios:\n' +
+    '👉 *doc* para ver la documentación\n' +
+    '👉 *gracias* para ver la lista de videos\n' +
+    '👉 *discord* para unirte al discord\n' +
+    '👉 *correo* para contactar con nosotros por email\n' +
+    '👉 *comprar web* si quieres adquirir tu propia página web',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object],
+      [Object], [Object]
+    ],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: '15d67a69654620a88f9c2f963be95f67'
+}
